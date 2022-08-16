@@ -1,2 +1,2 @@
-# flower_classification
+# iris-flower-classification
 Classify flowers into several types
